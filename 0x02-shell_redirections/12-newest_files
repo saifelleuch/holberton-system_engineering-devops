@@ -1,2 +1,2 @@
 #!/bin/bash
-find . –type f –exec ls -ta | sort | tail -n 10
+find . –type f –exec ls -Ata | sort | tail -n 10
