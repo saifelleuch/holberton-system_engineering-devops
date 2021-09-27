@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Arta | tail -n 10
+ls -Ata | tail -n 10
