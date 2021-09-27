@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 0 -type d -print | wc -l
+ls -lRa . | wc -lRa
