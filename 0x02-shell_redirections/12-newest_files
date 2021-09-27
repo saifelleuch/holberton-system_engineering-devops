@@ -1,2 +1,2 @@
 #!/bin/bash
-find . –type f –exec ls -Ata | sort | tail -n 10
+ls -t -1 | head -n 10
