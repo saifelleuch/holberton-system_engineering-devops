@@ -1,2 +1,2 @@
 #!/bin/bash
-find . –maxdepth 1 –type f –exec ls -Ata | tail -n 10
+find . –maxdepth 1 –type f –exec ls -ta | tail -n 10
